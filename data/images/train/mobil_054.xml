@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mobil_054.jpg</filename>
+	<path>G:\mobil motor\Images\train\mobil_054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>302</width>
+		<height>167</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>27</ymin>
+			<xmax>273</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>
